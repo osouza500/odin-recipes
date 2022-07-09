@@ -1,6 +1,6 @@
 img {
     height: auto;
-    width: 800px;
+    width: 500px;
 }
 
 .center {
@@ -12,4 +12,6 @@ img {
 
 h1 {
     text-align: center;
+    font-size: 42px;
+    font-family: "Times New Roman", Verdana, sans-serif;
 }
