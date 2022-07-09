@@ -15,3 +15,10 @@ h1 {
     font-size: 42px;
     font-family: "Times New Roman", Verdana, sans-serif;
 }
+
+ul li {
+    text-align: center;
+    font-size: 21px;
+    font-family: "Times New Roman", Verdana, sans serif;
+    list-style: none
+}
